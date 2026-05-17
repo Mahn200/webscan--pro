@@ -505,7 +505,5 @@ This project is licensed under the MIT License.
 
 Yapay Zeka Destekli Siber Güvenlik & Zafiyet Tarama Aracı
 
-*Bilgi Güvenliği Bölümü — Mezuniyet Projesi 2025/2026*
-
 
 </div>
