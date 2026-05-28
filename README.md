@@ -18,9 +18,7 @@
 
 <br/>
 
-> **Mezuniyet Projesi** — Bilgi Güvenliği Bölümü | 2025/2026
->
-> **Graduation Project** — Information Security Department | 2025/2026
+> 
 
 </div>
 
